@@ -6,7 +6,12 @@
             "direccion": "Calle 200 #35-28",
             "telefono": "3004849567",
             "tiempo": 5
-
+        },
+        {
+            "nombre":"Jose Perales",
+            "direccion": "Calle 185 #35-18",
+            "telefono": "3004259567",
+            "tiempo": 10
         }
         
 
