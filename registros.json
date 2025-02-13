@@ -1,0 +1,17 @@
+{
+    "clientes": [
+        
+        {
+            "nombre":"Pedro Perez",
+            "direccion": "Calle 200 #35-28",
+            "telefono": "3004849567",
+            "tiempo": 5
+
+        }
+        
+
+    ]
+
+
+
+}
