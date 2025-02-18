@@ -1,3 +1,5 @@
+# Ejercicio 
+
 Movistar se enfrenta a varios desafíos en la gestión de sus servicios y la fidelización de sus clientes debido a la falta de un sistema integral de registro y seguimiento. Estos desafíos incluyen:
 
 Gestión Ineficiente de Servicios: La empresa carece de una plataforma centralizada que permita registrar y gestionar eficientemente los diferentes servicios que ofrece, como Internet de Fibra Óptica, planes pospago, prepago, entre otros. Esto conduce a una gestión fragmentada y desorganizada de los servicios, lo que dificulta la identificación de áreas de mejora y la optimización de la oferta de productos.
